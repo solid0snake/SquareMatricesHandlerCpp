@@ -1,0 +1,2 @@
+# SquareMatricesHandlerCpp
+Manipulates square matrices.
